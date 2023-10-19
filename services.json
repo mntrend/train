@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "url": "https://enquiry.indianrail.gov.in/mntes/q?opt=MainMenu&subOpt=spotTrain&excpType=",
+      "name": "Spot Your Train",
+      "icon": "https://cdn-icons-png.flaticon.com/128/1551/1551103.png"
+},
+ {
+      "url": "https://enquiry.indianrail.gov.in/mntes/q?opt=MainMenu&subOpt=liveStation&excpType=",
+      "name": "Live Train Status",
+      "icon": "https://cdn-icons-png.flaticon.com/128/609/609354.png"
+},
+{
+      "url": "https://enquiry.indianrail.gov.in/mntes/q?opt=MainMenu&subOpt=trainSchedule&excpType=",
+      "name": "Train Schedule",
+      "icon": "https://cdn-icons-png.flaticon.com/128/3267/3267525.png"
+},
+{
+      "url": "https://enquiry.indianrail.gov.in/mntes/q?opt=MainMenu&subOpt=tbs&excpType=",
+      "name": "Train b/w Station",
+      "icon": "https://cdn-icons-png.flaticon.com/128/2062/2062153.png"
+},
+{
+      "url": "https://enquiry.indianrail.gov.in/mntes/q?opt=TrainRunning&subOpt=excpInfo",
+      "name": "Train Exception Info",
+      "icon": "https://cdn-icons-png.flaticon.com/128/6742/6742760.png"
+},
+    {
+      "url": "https://www.irctctourism.com/accommodation",
+      "name": "IRCTC L0unge",
+      "icon": "https://cdn-icons-png.flaticon.com/128/1551/1551103.png"
+},
+ {
+      "url": "https://www.hotels.irctc.co.in/",
+      "name": "IRCTC Hotel",
+      "icon": "https://cdn-icons-png.flaticon.com/128/609/609354.png"
+},
+{
+      "url": "https://www.air.irctc.co.in/",
+      "name": "IRCTC Flight",
+      "icon": "https://cdn-icons-png.flaticon.com/128/3267/3267525.png"
+},
+{
+      "url": "https://www.irctc.co.in/online-charts/",
+      "name": "Train Reservation Chart",
+      "icon": "https://cdn-icons-png.flaticon.com/128/2062/2062153.png"
+},
+{
+      "url": "https://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html?locale=en",
+      "name": "Train PNR Status",
+      "icon": "https://cdn-icons-png.flaticon.com/128/6742/6742760.png"
+}
+]
+}
